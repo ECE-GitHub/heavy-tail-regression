@@ -1,5 +1,6 @@
 Author: Emmanuel Ekwedike
-Date: 4/8/2019
+
+Date: 1/19/2019
 
 Gaussian linear models are often insufficient in practical applications, where noise can be heavy-tailed. We consider a simple linear model, where the conditional mean of the error term given the independent variable is zero. The goal is to derive a good estimator for the parameters of the linear model based on the observed sample data. 
 
